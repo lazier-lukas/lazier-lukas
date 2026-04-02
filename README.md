@@ -1,3 +1,9 @@
+
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyaWtmMTI1d2s4YzRlbjVqdGczam5kcDVkcmMzNG1mNHVreTh0NDd2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xdgisqRDFyO9G/giphy.gif" width="300">
+</p>
+
 ## Lukas here 💨
 ✨ Learning Python  
 ⚡ Building Tools  
