@@ -1,4 +1,4 @@
-## Hi there 👋
+## Lukas here 💨
 ✨ Learning Python  
 ⚡ Building Tools  
 💫 Practicing Everyday  
