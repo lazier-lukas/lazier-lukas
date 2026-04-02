@@ -1,4 +1,8 @@
 ## Hi there 👋
+✨ Learning Python  
+⚡ Building Tools  
+💫 Practicing Everyday  
+✨ Cyber Security Learner
 
 <!--
 **lazier-lukas/lazier-lukas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
