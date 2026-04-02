@@ -5,7 +5,7 @@
 </p>
 
 ## Lukas here 💨
-✨ Learning Python  
+✨ Learning Coding  
 ⚡ Building Tools  
 💫 Practicing Everyday  
 ✨ Cyber Security Learner
